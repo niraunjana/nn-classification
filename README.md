@@ -243,7 +243,8 @@ print(le.inverse_transform(x_single_prediction))
 
 ### Confusion Matrix
 
-![image](https://github.com/niraunjana/nn-classification/assets/119395610/6423df1b-594f-45db-8906-6e1514aa9ee3)
+![image](https://github.com/niraunjana/nn-classification/assets/119395610/5bde4576-c961-4cc0-84dd-3aae16555bae)
+
 
 
 
@@ -256,5 +257,4 @@ print(le.inverse_transform(x_single_prediction))
 A neural network classification model is developed for the given dataset.
 
 
-## RESULT
-Include your result here
+
